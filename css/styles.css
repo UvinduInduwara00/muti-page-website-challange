@@ -1,0 +1,214 @@
+h3 {
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+p {
+    color: #a1a2a7;
+}
+
+
+/* sliderbar */
+
+.sliderbar {
+    width: 274px;
+    height: 568px;
+    background-image: url("bg-sidebar-desktop.svg");
+    margin: 1rem 0;
+    color: #ffff;
+    padding: 2rem;
+}
+
+.sliderbar p {
+    margin-bottom: 0;
+    color: #a4a2ff;
+}
+
+.num-num{
+    font-size: 2.5rem;
+    font-weight: 200;
+    margin-top: 0.1875rem;
+}
+
+.steps {
+    margin-bottom: 0.5rem;
+}
+
+.sliderbar .col-sm-10 {
+    padding-left: 1.25rem;
+}
+
+
+/* step1 */
+
+.step1 .w-100{
+    margin-bottom: 2rem;
+    height: 2.5rem;
+}
+
+.step1 .btn-next{
+    margin-top: 6.25rem;
+}
+
+
+/* step-box */
+
+.step-box{
+    margin: 4rem 6rem 2rem 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn-next {
+    display: block;
+}
+
+ .step-box a{
+    color: black;
+ }
+
+ .step-box a:hover{
+    font-weight: bold;
+  
+ }
+
+/* step2 */
+
+ /* cards */
+
+.card2:hover{
+    border-color: blue;
+}
+
+.card img {
+    width: 2.25rem;
+    margin: 1rem;
+}
+
+.card-text-new {
+    color: #424242;
+}
+
+/* toggle swich */
+
+.tog-sw {
+    transform: rotate(-0.5turn);
+    padding-left: 3.25rem;
+}
+
+.tog-sw-r {
+    transform: rotate(0);
+}
+
+.tog-select{
+    color: black;
+    font-weight: bold;
+}
+
+.tog-bar{
+    margin: 2rem 0;
+}
+
+
+.btn-bar2{
+    margin-top: 10rem;
+}
+
+.btn-bar2-5{
+    margin-top: 6rem;
+}
+
+
+/* step3 */
+
+.checkbox-row{
+    border-width: 0.15rem;
+    border-color: #a4a2ff;
+    margin-bottom: 1rem;
+    padding: 1rem 0 0 0;
+}
+
+.checkbox-topic{
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.checkbox-row input {
+    transform: scale(2);
+    margin: 1rem 0 0 2rem;
+}
+
+.btn-bar3 {
+    margin-top: 6.5rem;
+}
+
+/* step4 */
+
+.price {
+    background-color: #eafdfd;
+    margin: 2.5rem 0;
+    border-radius: 12px;
+    border-bottom: #a1a2a7;
+    padding: 1rem 1rem 0 1rem;
+}
+
+.step4 hr {
+    margin-bottom: 2rem;
+}
+
+
+.step4 .col-3 {
+    text-align: right;
+}
+
+.step4 .row-up a {
+    text-decoration: underline;
+}
+
+.final-price{
+    padding: 0 1rem;
+}
+
+.btn-bar4{
+    margin-top: 1.75rem;
+}
+
+.price-of-package-style{
+    font-weight: bold;
+    color: #000;
+}
+
+.final-price-monthly{
+    color: rgb(95, 84, 248);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.final-price-yearly{
+    color: rgb(95, 84, 248);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+/* final-box */
+
+.final-box{
+    text-align: center;
+    padding: 5rem 0.5rem;
+}
+
+
+
+
+
+/* Js classes */
+
+.select{
+    border-color: blue;
+    background-color: #f9ffff;
+}
